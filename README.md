@@ -25,21 +25,21 @@ Run AmpaC with the following parameters.
 
 Available options:
 
- **-in <file>**      Fasta sequence input file (required)
+**-in <file>**      Fasta sequence input file (required)
 
- **-t <int>**       Threshold value (default: 7)
+**-t <int>**       Threshold value (default: 7)
 
- **-w <float>**      Window size value (default: 0.225)
+**-w <float>**      Window size value (default: 0.225)
 
- **-rf <file>**      File where store the program result
+**-rf <file>**      File where store the program result
 
- **-df <file>**      File where store the produced plot data (Only Nseq == 1)
+**-df <file>**      File where store the produced plot data (Only Nseq == 1)
 
- **-gf <file>**      File where store the generated plot (Only Nseq == 1)
+**-gf <file>**      File where store the generated plot (Only Nseq == 1)
 
- **-noplot **  Skip plot creation step
+**-noplot**  Skip plot creation step
 
- **-help **    This help information
+**-help**    This help information
 
 Dependencies 
 ------------
