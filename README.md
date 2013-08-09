@@ -25,7 +25,7 @@ Run AmpaC with the following parameters.
 
 Available options:
 
-**-in <file>**      Fasta sequence input file (required)
+**-in <<file>>**      Fasta sequence input file (required)
 
 **-t int**       Threshold value (default: 7)
 
